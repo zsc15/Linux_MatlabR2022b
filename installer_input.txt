@@ -21,16 +21,6 @@ product.Medical_Imaging_Toolbox
 product.Optimization_Toolbox
 product.Parallel_Computing_Toolbox
 product.Signal_Processing_Toolbox
-
-##cp libmwlmgrimpl.so /usr/local/MATLAB/r2022b/bin/glnxa64/matlab_startup_plugins/lmgrimpl/libmwlmgrimpl.so
-##cd /usr/local/MATLAB/r2022b/extern/engines/python python setup.py install
-##https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.1-Linux-x86_64.sh
-#bash Anaconda3-5.3.1-Linux-x86_64.sh -b -p $/root/anaconda3
-#conda config --add channels http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
-#conda config --add channels http://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
-#conda config --add channels http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
-#conda config --add channels http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
-#conda config --set show_channel_urls yes
 #####add product what you want
 #product.5G_Toolbox
 #product.AUTOSAR_Blockset
