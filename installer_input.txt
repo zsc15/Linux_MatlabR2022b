@@ -6,6 +6,7 @@ destinationFolder=/usr/local/MATLAB/r2022b
 #这里告诉安装脚本你想安装在哪里
 licensePath=license.lic
 #这里是告诉安装脚本你的许可证文件在哪license.lic，稍后把许可证文件直接复制到docker容器内对应的目录
+###product examples
 product.MATLAB
 product.MATLAB_Coder
 product.Computer_Vision_Toolbox
@@ -30,6 +31,7 @@ product.Signal_Processing_Toolbox
 #conda config --add channels http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
 #conda config --add channels http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/msys2/
 #conda config --set show_channel_urls yes
+#####add product what you want
 #product.5G_Toolbox
 #product.AUTOSAR_Blockset
 #product.Aerospace_Blockset
