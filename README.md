@@ -6,6 +6,7 @@ The file structure is as follows.
   - start.sh
   - install.sh
   - installer_input.txt
+  - license.lic
   - R2022b_Linux.iso
   - README.md
 ## Run the sh file
