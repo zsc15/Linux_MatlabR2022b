@@ -14,3 +14,6 @@ The file structure is as follows.
 chmod +x ./start.sh
 ./start.sh
 ```
+## Add new toolbox
+Please add some toolbox what you want in the **new_installer_input.txt**.
+Then run the new sh file add_new_package.sh.
