@@ -7,7 +7,7 @@ mkdir -p matlab
 mount -o loop R2022b_Linux.iso matlab
 
 # 运行MATLAB安装脚本，使用installer_input.txt文件中的配置
-./matlab/install -inputFile installer_input.txt
+./matlab/install -inputFile new_installer_input.txt
 
 # 取消挂载ISO文件
 umount matlab
